@@ -2,6 +2,8 @@
 
 A small CLI for generating Obsidian-friendly markdown notes from a database schema.
 
+Original SQL scripts and template developed by me, glued together by Copilot into a single workflow.
+
 ## Features
 - Discovers user-owned database objects such as tables, views, stored procedures, and functions.
 - Writes one markdown note per object into folders like Tables and Stored Procedures.
